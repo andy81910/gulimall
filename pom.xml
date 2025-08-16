@@ -22,7 +22,7 @@
     <module>gulimall-member</module>
     <module>gulimall-order</module>
     <module>gulimall-ware</module>
-
+    <module>gulimall-common</module>
   </modules>
 
 
