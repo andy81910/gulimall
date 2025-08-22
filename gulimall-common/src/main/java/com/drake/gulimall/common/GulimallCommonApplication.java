@@ -1,10 +1,11 @@
-package com.drake.gulimall;
+package com.drake.gulimall.common;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class GulimallCommonApplication
+
 {
     public static void main( String[] args )
     {
