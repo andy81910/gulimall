@@ -1,4 +1,4 @@
-package com.atguigu.gulimall.product.service.impl;
+package com.drake.gulimall.product.service.impl;
 
 import org.springframework.stereotype.Service;
 import java.util.Map;
@@ -8,9 +8,9 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.drake.common.utils.PageUtils;
 import com.drake.common.utils.Query;
 
-import com.atguigu.gulimall.product.dao.AttrGroupDao;
-import com.atguigu.gulimall.product.entity.AttrGroupEntity;
-import com.atguigu.gulimall.product.service.AttrGroupService;
+import com.drake.gulimall.product.dao.AttrGroupDao;
+import com.drake.gulimall.product.entity.AttrGroupEntity;
+import com.drake.gulimall.product.service.AttrGroupService;
 
 
 @Service("attrGroupService")

@@ -1,8 +1,8 @@
-package com.atguigu.gulimall.product.service;
+package com.drake.gulimall.product.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.atguigu.common.utils.PageUtils;
-import com.atguigu.gulimall.product.entity.BrandEntity;
+import com.drake.common.utils.PageUtils;
+import com.drake.gulimall.product.entity.BrandEntity;
 
 import java.util.Map;
 
