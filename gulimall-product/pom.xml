@@ -10,10 +10,10 @@
 
   <groupId>com.drake.gulimall</groupId>
   <artifactId>gulimall-product</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
   <name>gulimal-product</name>
+  <description>商城-商品服務</description>
 
   <properties>
     <java.version>1.8</java.version>
@@ -21,6 +21,13 @@
   </properties>
 
   <dependencies>
+
+    <dependency>
+      <groupId>com.drake.gulimall</groupId>
+      <artifactId>gulimall-common</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+
     <!-- 核心 Web -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
