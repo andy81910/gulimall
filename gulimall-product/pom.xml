@@ -10,7 +10,7 @@
 
   <groupId>com.drake.gulimall</groupId>
   <artifactId>gulimall-product</artifactId>
-  <version>>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>gulimal-product</name>
   <description>商城-商品服務</description>

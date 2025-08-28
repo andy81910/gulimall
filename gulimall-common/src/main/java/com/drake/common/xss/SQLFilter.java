@@ -8,7 +8,7 @@
 
 package com.drake.common.xss;
 
-import io.renren.common.exception.RRException;
+import com.drake.common.utils.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**
