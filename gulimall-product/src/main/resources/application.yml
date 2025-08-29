@@ -1,5 +1,5 @@
-#server:
-#  port: 7000
+server:
+  port: 10000 #product
 
 spring:
   datasource:
@@ -14,3 +14,4 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: auto
+

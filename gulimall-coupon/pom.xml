@@ -23,6 +23,12 @@
 
   <dependencies>
 
+    <dependency>
+      <groupId>com.drake.gulimall</groupId>
+      <artifactId>gulimall-common</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+
     <!-- 核心 Web -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
